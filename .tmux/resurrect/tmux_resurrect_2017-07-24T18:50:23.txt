@@ -1,0 +1,12 @@
+pane	0	0	:bash	1	:*	0	:/home/ricky.lindenhovius	1	bash	:
+pane	8	0	:bash	0	:	0	:/home/ricky.lindenhovius/code/src/github.com/namely/charts	1	bash	:
+pane	8	1	:bash	1	:*	0	:/home/ricky.lindenhovius/code/src/github.com/namely/charts	1	bash	:
+pane	8	2	:VIM	0	:-	0	:/home/ricky.lindenhovius/code/src/github.com/namely/charts	1	vim	:vim /home/ricky.lindenhovius/helm-debug/sessions.yaml
+pane	9	0	:bash	1	:*Z	0	:/home/ricky.lindenhovius	0	bash	:
+pane	9	0	:bash	1	:*Z	1	:/home/edward.burnett	1	bash	:
+window	0	0	1	:*	b29d,204x51,0,0,0
+window	8	0	0	:	64d1,157x37,0,0,12
+window	8	1	1	:*	5786,204x50,0,0,17
+window	8	2	0	:-	5787,204x50,0,0,18
+window	9	0	1	:*Z	6d4e,151x29,0,0[151x14,0,0,19,151x14,0,15,20]
+state	9	
