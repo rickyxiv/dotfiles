@@ -1,9 +1,0 @@
-pane	0	0	:bash	1	:*	0	:/home/ricky.lindenhovius	1	bash	:
-pane	8	0	:bash	0	:	0	:/home/ricky.lindenhovius/code/src/github.com/namely/charts/helpers	1	bash	:
-pane	8	1	:helm	1	:*	0	:/home/ricky.lindenhovius/code/src/github.com/namely/charts	1	helm	:helm serve
-pane	8	2	:VIM	0	:-	0	:/home/ricky.lindenhovius/code/src/github.com/namely/charts	1	vim	:vim install.sh
-window	0	0	1	:*	b29d,204x51,0,0,0
-window	8	0	0	:	64d1,157x37,0,0,12
-window	8	1	1	:*	64d6,157x37,0,0,17
-window	8	2	0	:-	64d7,157x37,0,0,18
-state	8	
