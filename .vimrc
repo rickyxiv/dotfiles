@@ -9,7 +9,10 @@ Plug 'tpope/vim-sensible'
 Plug 'tpope/vim-sleuth'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-syntastic/syntastic'
+Plug 'joshdick/onedark.vim'
 call plug#end()
+
+colorscheme onedark
 
 syntax on
 
