@@ -3,6 +3,8 @@ Plug 'airblade/vim-gitgutter'
 Plug 'fatih/vim-go', { 'tag': '*' }
 Plug 'mdempsky/gocode', { 'rtp': 'vim', 'do': '~/.vim/plugged/gocode/vim/symlink.sh' }
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
+Plug 'tpope/vim-sensible'
+Plug 'tpope/vim-commentary'
 Plug 'vim-airline/vim-airline'
 Plug 'w0rp/ale'
 call plug#end()
